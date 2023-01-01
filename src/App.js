@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Under Construction
+          Hosted in netlify
         </p>        
       </header>
     </div>
